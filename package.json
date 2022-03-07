@@ -2,6 +2,7 @@
   "name": "database",
   "version": "1.0.0",
   "description": "A Vue.js project",
+  "homepage":"https://github.com/1aureate/2022-BUAA-dataBaseProjectFrontEnd.git",
   "author": "徐家乐 <19373224@buaa.edu.cn>",
   "private": true,
   "scripts": {
